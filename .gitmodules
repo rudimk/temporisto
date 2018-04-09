@@ -1,0 +1,6 @@
+[submodule "temporisto-api"]
+	path = temporisto-api
+	url = https://github.com/rudimk/temporisto-api
+[submodule "temporisto-bot"]
+	path = temporisto-bot
+	url = https://github.com/rudimk/temporisto-bot
